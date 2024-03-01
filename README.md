@@ -1,4 +1,4 @@
-### Olá! eu sou <style: size:12px>Heraldo Monteiro
+### Olá! eu sou Heraldo Monteiro
 - 🌱 Estudando Back-end e Front-end
 - 
 
